@@ -16,7 +16,7 @@ A Sam-Utils é um experimento real de algo assimétrico de software.
 Enquanto o ecossistema tradicional levou 40 anos acumulando linhas e mais linhas de código inchado, a Sam-Utils foi **100% gerada através de Inteligência Artificial de ponta**, sob rigoroso comando, refinamento e arquitetura humana.
 
 - **A IA foi a fundição, o humano foi o comandante:** O design dos utilitários, a escolha do padrão POSIX e a seleção cirúrgica de recursos foram ditados por mim. A IA executou a escrita do C puro em tempo recorde.
-- **Validação Empírica:** Não confiamos cegamente na IA. O código gerado foi testado muito bem pela nossa esteira automatizada de testes de estresse (`run-test.sh`). Se a IA gerasse código frágil e ruim, ele teria quebrado nos testes de estouro de buffer e outros testes. O placar de **51x0** prova que a combinação de IA + Validação Rigorosa entrega software de nível de produção.
+- **Validação Empírica:** Não confiamos cegamente na IA. O código gerado foi testado muito bem pela nossa esteira automatizada de testes de estresse (`run-test.sh`). Se a IA gerasse código frágil e ruim, ele teria quebrado nos testes de estouro de buffer e outros testes. O placar de **63x0** prova que a combinação de IA + Validação Rigorosa entrega software de nível de produção.
 
 ## 🚀 Projeto em Destaque
 
