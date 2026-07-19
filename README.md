@@ -1,10 +1,13 @@
-# 👋 Olá, eu sou o Sam
+👋 Olá, eu sou o Sam
+Desenvolvedor de sistemas (19yo) focado em engenharia de baixo nível, performance bruta e código limpo.
 
-Desenvolvedor de sistemas de 19yo focado em engenharia de baixo nível, performance bruta e código limpo. Escrevo com inteligência artificial(pois sou péssimo em codar) código em C puro focado no padrão POSIX e na filosofia BSD: minimalismo, velocidade e liberdade comercial real.
+Stack: C puro, POSIX e arquitetura de sistemas.
 
-Não suporto o inchaço de software moderno (*bloatware*) e ferramentas amarradas e arruinadas por grandes burocracias ideológicas do copyleft. Acredito de forma firme que engenharia de elite se faz com arquitetura enxuta, livre de verdade e de código indestrutível.
+Filosofia: Minimalismo, velocidade e liberdade comercial real.
 
----
+Metodologia: Utilizo Inteligência Artificial para a implementação de código bruto, o que me permite focar inteiramente na arquitetura, no design de baixo nível e na eficiência do sistema, sem perder tempo com o trabalho pesado da sintaxe.
+
+Não suporto o inchaço de software moderno (bloatware) e ferramentas amarradas. Engenharia de elite se faz com arquitetura enxuta e código indestrutível.
 
 ## 🤖 Engenharia de Próxima Geração: Human-Architected, AI-Forged
 
@@ -17,11 +20,11 @@ Enquanto o ecossistema tradicional levou 40 anos acumulando linhas e mais linhas
 
 ## 🚀 Projeto em Destaque
 
-### [⚡ Sam-Utils](https://github.com/samucalima-coding/Sam-Utils)
+[Sam-Utils](https://github.com/samucalima-coding/sam-utils)
 Uma *userland* cirúrgica e ultraveloz escrita do zero em C moderno para o FreeBSD e plataformas POSIX. 
-- **O Arsenal:** 51 comandos essenciais reescritos e otimizados para performance.
+- **O Arsenal:** 63 comandos essenciais reescritos e otimizados para performance.
 - **Resistência:** Submetida a testes automatizados de estresse e estouro de buffer. 
-- **Placar de Combate:** 51 aprovados, 0 falhas críticas.
+- **Placar de Combate:** 63 aprovados, 0 falhas críticas.
 - **Licença:** 100% BSD Permissiva (pronto para uso comercial e livre de bullshit ideológico).
 
 ---
@@ -29,8 +32,9 @@ Uma *userland* cirúrgica e ultraveloz escrita do zero em C moderno para o FreeB
 ## 🛠️ Meu Arsenal Técnico
 
 - **Linguagens:** C Puro (ANSI/C99/C11), Shell Script (`/bin/sh`, Bash).
-- **Ambiente:** FreeBSD, UNIX de linha de frente, Sistemas POSIX.
+- **Ambiente:** Debian, UNIX de linha de frente, Sistemas POSIX.
 - **Foco de Estudo:** Desenvolvimento de Userland, Gerenciamento de Processos, Chamadas de Sistema (*Syscalls*) e Otimização de Memória.
+- Próximos passos: Explorando otimização de performance para jogos (Low-level rendering & ECS).
 
 ---
 
